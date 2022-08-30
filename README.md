@@ -1,2 +1,3 @@
-# CRUD-App-2
-CRUD Application using for Create, Read, Update and Delete
+# CRUD
+This Application Based on CRUD, Create,Read,Update,Delete and View.
+Here Python Flask framework is used for Backend and HTML and CSS used for Frontend
